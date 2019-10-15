@@ -26,19 +26,19 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
+
   * Analysing
   * Modelling
   * Deploying
   """
 
 [[experience]]
-  title = "Professor"
+  title = "Instructor"
   company = "University X"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
+  location = "Saudi Arabia"
+  date_start = "2017-06-06"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """teaching in media and communication Dep. at Taif University."""
 
 +++
