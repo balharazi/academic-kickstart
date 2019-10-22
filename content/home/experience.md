@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Saudi Arabia"
   date_start = "2017-12-26"
   date_end = "2018-06-05"
-  description = "Supply Chain Officer""
+  description = """
   Responsibilities include:
 
   * Analysing
