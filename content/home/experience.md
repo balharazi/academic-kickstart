@@ -25,19 +25,19 @@ date_format = "Jan 2006"
   date_start = "2018-06-06"
   date_end = ""
   description = """Teaching in media and communication Dep. at Taif University"""
-  [[experience]]
-    title = "Supply Chain Officer"
-    company = "Jamjoom Medical Industries Co. Ltd."
-    company_url = ""
-    location = "Jeddah, Saudi Arabia"
-    date_start = "2017-12-26"
-    date_end = "2018-06-05"
-    description = """Customer Service Representative"""
-    Responsibilities include:
+[[experience]]
+  title = "Supply Chain Officer"
+  company = "Jamjoom Medical Industries Co. Ltd."
+  company_url = ""
+  location = "Jeddah, Saudi Arabia"
+  date_start = "2017-12-26"
+  date_end = "2018-06-05"
+  description = """Customer Service Representative"""
+  Responsibilities include:
 
     * Analysing
     * Modelling
     * Billing
     """
-    
+
 +++
