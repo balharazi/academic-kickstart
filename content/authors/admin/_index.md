@@ -27,9 +27,6 @@ interests:
 
 education:
   courses:
-  - course: PhD in Text and Technology
-    institution: University of Central Florida
-    year: 2022
   - course: MA in Multimedia Journalism
     institution: Arkansas Tech University
     year: 2017
@@ -40,7 +37,7 @@ education:
     institution: Umm AlQura University
     year: 2012
 
-# Social/Academic Networking
+
 social:
 - icon: envelope
   icon_pack: fab
