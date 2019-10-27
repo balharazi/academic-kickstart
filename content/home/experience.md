@@ -31,6 +31,7 @@ date_format = "Jan 2006"
   * Modelling
   * Billing
   """
+
   [[experience]]
     title = "Supply Chain Officer"
     company = "Jamjoom Medical Industries Co. Ltd."
