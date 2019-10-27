@@ -52,11 +52,11 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/balharazi/academic-kickstart
- # Link to PDF of your resume/CV from the about widget.
- # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# Link to PDF of your resume/CV from the about widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: static/files/cv.pdf
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
