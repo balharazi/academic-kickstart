@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """Teaching in media and communication Dep. at Taif University"""
   [[experience]]
     title = "Supply Chain Officer"
-    company = "Jamjoom"
+    company = "Jamjoom Medical Industries Co. Ltd."
     company_url = ""
     location = "Jeddah, Saudi Arabia"
     date_start = "2017-12-26"
