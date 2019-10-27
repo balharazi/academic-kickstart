@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: MA in Multimedia Journalism
+  - course: M.A. in Multimedia Journalism
     institution: Arkansas Tech University
     year: 2017
-  - course: Diploma in High Education
+  - course: Dig. in High Education
     institution: Umm AlQura University
     year: 2013
-  - course: BA in Mass Communication and Public Relations
+  - course: B.A. in Mass Communication and Public Relations
     institution: Umm AlQura University
     year: 2012
 
@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: files/cv.pdf
+   link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
