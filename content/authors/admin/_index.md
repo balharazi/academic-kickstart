@@ -41,10 +41,10 @@ education:
     year: 2012
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: envelope
+  icon_pack: fab
+  link: mailto:balharazi@knights.ucf.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/alharaziB
