@@ -22,7 +22,7 @@ title = "Instructor"
 company = "Taif University"
 company_url = ""
 location = "Saudi Arabia"
-date_start = "2017-06-06"
+date_start = "2018-06-06"
 date_end = "Present"
 description = """Teaching in media and communication Dep. at Taif University"""
 
