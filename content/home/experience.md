@@ -26,17 +26,11 @@ date_start = "2018-06-06"
 date_end = "Present"
 description = """Teaching in media and communication Dep. at Taif University"""
 [[experience]]
-  title = "Customer Service Representative"
+  title = "Supply Chain Officer"
   company = "Jamjoom"
   company_url = ""
   location = "Saudi Arabia"
   date_start = "2017-12-26"
   date_end = "2018-06-05"
-  description = """Processing orders from salesmen to warehouses"""
-  
-  Responsibilities include:
-
-* Analysing
-* Modelling
-* Billing
+  description = """Customer Service Representative"""
 +++
