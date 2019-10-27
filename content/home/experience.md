@@ -25,6 +25,12 @@ date_format = "Jan 2006"
   date_start = "2018-06-06"
   date_end = ""
   description = """Teaching in media and communication Dep. at Taif University"""
+  Responsibilities include:
+
+  * Analysing
+  * Modelling
+  * Billing
+  """
   [[experience]]
     title = "Supply Chain Officer"
     company = "Jamjoom Medical Industries Co. Ltd."
