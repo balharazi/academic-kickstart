@@ -54,6 +54,7 @@ social:
   link: https://github.com/balharazi/academic-kickstart
 
 
+  
  - icon: cv
    icon_pack: ai
    link: files/cv.pdf
