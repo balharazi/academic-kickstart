@@ -34,6 +34,7 @@ date_format = "Jan 2006"
   date_end = "2018-06-05"
   description = """
 
+
   Responsibilities include:
 
     * Analysing
