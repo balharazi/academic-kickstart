@@ -36,6 +36,8 @@ education:
   - course: BA in Mass Communication and Public Relations
     institution: Umm AlQura University
     year: 2012
+
+    
 social:
 - icon: envelope
   icon_pack: fas
