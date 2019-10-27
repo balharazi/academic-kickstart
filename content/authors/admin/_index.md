@@ -39,6 +39,8 @@ education:
 
 
 
+
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -50,14 +52,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/balharazi/academic-kickstart
-
-
-
-
 # Link to PDF of your resume/CV from the about widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-
-
  - icon: CV
    icon_pack: ai
    link: files/CV.pdf
