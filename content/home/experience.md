@@ -25,7 +25,6 @@ location = "Saudi Arabia"
 date_start = "2017-06-06"
 date_end = ""
 description = """Teaching in media and communication Dep. at Taif University."""
-"""
 
 
 
