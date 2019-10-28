@@ -16,10 +16,10 @@ subtitle = ""
 
 [[feature]]
   icon = "zotero"
-  icon_pack = "ia"
+  icon_pack = "ai"
   name = "Zotero"
   description = "100%"
-  
+
 [[feature]]
   icon = "git"
   icon_pack = "fab"
