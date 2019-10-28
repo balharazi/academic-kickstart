@@ -8,7 +8,7 @@ title: Recent & Upcoming Talks
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header: Interview to faculty members from Media and Communication Department at Taif University
-  caption: "" https://youtu.be/Srtk5JIH81c
+header:
+  caption: ""
   image: ""
 ---
