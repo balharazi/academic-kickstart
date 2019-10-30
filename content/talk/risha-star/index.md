@@ -3,7 +3,7 @@
 
 title: "Risha Star Interview"
 event: Student Training
-event_url: https://www.instagram.com/p/Bn6nyrcnn5M ?utm_source=ig_web_button_share_sheet
+event_url: https://www.instagram.com/p/Bn6nyrcnn5M/?utm_source=ig_web_copy_link
 location: Taif,Saudi Arabia
 address:
   street:
