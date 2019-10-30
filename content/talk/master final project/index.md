@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Risha Star Interview"
-event: Student Training
-event_url: https://www.instagram.com/p/Bn6nyrcnn5M/?utm_source=ig_web_copy_link
-location: Taif,Saudi Arabia
+title: "Visual Art"
+event: MA Final Projects
+event_url: https://visualart2017.wordpress.com/
+location: Russellville, AR
 address:
   street:
   city:
@@ -12,11 +12,11 @@ address:
   postcode:
   country:
 summary:
-abstract: Interview as class individual assignment for my student in Applied Media at Taif University Spring 2019.
+abstract: The capstone graduate course Professional Portfolio 6333 as a requirement for the multimedia journalism master program at Arkanas Tech University. Each story is in a path leads to the visual art destination. The idea starts with a noticing of a little smile drown on a beautiful face.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018-09-19T08:40:11-04:00
+date: 2017-05-13T08:40:11-04:00
 #date_end: 2019-01-06T20:40:11-04:00
 all_day: false
 
