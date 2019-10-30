@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "EAC Ebda'a Alaseal Institution"
   organization_url = ""
-  title = "Develop Human Resource Specialist Skills workshop"
+  title = "Develop Human Resource Specialist Skills Workshop"
   url = ""
   certificate_url = ""
   date_start = "2017-10-22"
