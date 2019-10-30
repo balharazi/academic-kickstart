@@ -32,4 +32,10 @@ subtitle = ""
   name = "Markdown"
   description = "50%"
 
+  [[feature]]
+    icon = "photoshop"
+    icon_pack = "fab"
+    name = "photoshop"
+    description = "50%"
+
 +++
