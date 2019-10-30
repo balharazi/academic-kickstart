@@ -3,7 +3,7 @@
 
 title: "Interview to faculty members from Media and Communication Department at Taif University"
 event: Student Training
-event_url:
+event_url: https://youtu.be/Srtk5JIH81c
 location: Taif,Saudi Arabia
 address:
   street:
@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: Interview as class assignment for Applied Media at Taif University.
+abstract: Interview as class assignment for my student in Applied Media at Taif University Spring 2019.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
