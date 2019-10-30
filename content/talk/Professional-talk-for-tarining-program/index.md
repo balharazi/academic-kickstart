@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Professional Talk Training Program"
+title: "Professional Talk for Media Training Program"
 event: Student Training
 event_url:
 location: Taif,Saudi Arabia
