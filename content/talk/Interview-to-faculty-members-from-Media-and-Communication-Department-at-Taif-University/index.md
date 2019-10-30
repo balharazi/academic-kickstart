@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Plundered Hearts: The Mostly Forgotten History of Romance Games"
-event: Society for Cinema and Media Studies
+title: "Interview to faculty members from Media and Communication Department at Taif University"
+event: Student Training
 event_url:
-location: Seattle
+location: Taif,Saudi Arabia
 address:
   street:
   city:
@@ -12,16 +12,16 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: Interview as class assignment for Applied Media at Taif University.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-01-03T20:40:11-04:00
+date: 2019-02-19T20:40:11-04:00
 #date_end: 2019-01-06T20:40:11-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-10-09T20:40:11-04:00
+#publishDate: 2019-10-09T20:40:11-04:00
 
 authors: []
 tags: []
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://www.slideshare.net/secret/t9DQU90PQTdgP3
+#url_slides: https://www.slideshare.net/secret/t9DQU90PQTdgP3
 
 url_code:
 url_pdf:
