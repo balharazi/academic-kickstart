@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Visual Art"
-event: MA Final Projects
+event: MA Final Project
 event_url: https://visualart2017.wordpress.com/
 location: Russellville, AR
 address:
