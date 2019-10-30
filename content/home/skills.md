@@ -33,9 +33,9 @@ subtitle = ""
   description = "50%"
 
   [[feature]]
-    icon = "Photoshop"
+    icon = "photoshop"
     icon_pack = "fab"
-    name = "photoshop"
+    name = "Photoshop"
     description = "50%"
 
 +++
