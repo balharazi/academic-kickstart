@@ -68,13 +68,5 @@ subtitle = ""
  css_class = ""
 +++
 
----
-Interview to faculty members from Media and Communication Department at Taif University
-
-February 19,2019 1:30 PM.
-
-Taif, Saudi
-
-https://youtu.be/Srtk5JIH81c
 
 ---
