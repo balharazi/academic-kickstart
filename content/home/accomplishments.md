@@ -31,12 +31,22 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Taif University"
   organization_url = "https://www.tu.edu.sa/en/"
-  title = "Student Affairs Coordinator at Art & Humanities College"
+  title = "Student Affairs Coordinator for Media Department of Art & Humanities College"
   url = ""
   certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
   description = ""
+
+  [[item]]
+    organization = "Taif University"
+    organization_url = "https://www.tu.edu.sa/en/"
+    title = "Quality and Academic Accreditation Coordinator for Media Department of Art & Humanities College"
+    url = ""
+    certificate_url = ""
+    date_start = "2018-03-01"
+    date_end = ""
+    description = ""
 
 [[item]]
   organization = "Ministry of Education"
