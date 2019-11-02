@@ -63,8 +63,8 @@ subtitle = ""
   description = "99%"  
 
 [[feature]]
-    icon = "lightbulb-on"
+    icon = "chalkboard-teacher"
     icon_pack = "fas"
-    name = "Inspirational"
-    description = "98%"  
+    name = "Leading"
+    description = "95%"  
 +++
