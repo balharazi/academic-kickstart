@@ -67,6 +67,4 @@ subtitle = ""
     icon_pack = "fas"
     name = "Inspirational"
     description = "98%"  
-
-
 +++
