@@ -66,7 +66,7 @@ subtitle = ""
     icon = "lightbulb-on"
     icon_pack = "fas"
     name = "Inspirational"
-    description = "99%"  
+    description = "98%"  
 
 
 +++
