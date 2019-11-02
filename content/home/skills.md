@@ -32,22 +32,40 @@ subtitle = ""
   name = "Markdown"
   description = "50%"
 
+[[feature]]
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Adobe"
+  description = "60%"
+
   [[feature]]
-    icon = "adobe"
+    icon = "wordpress-simple"
     icon_pack = "fab"
-    name = "Adobe"
-    description = "60%"
+    name = "Blooging"
+    description = "95%"
 
-    [[feature]]
-      icon = "camera-retro"
-      icon_pack = "fas"
-      name = "Photography"
-      description = "70%"
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Photography"
+  description = "70%"
 
-      [[feature]]
-        icon = "microsoft"
-        icon_pack = "fab"
-        name = "Microsoft Office"
-        description = "80%"
+[[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Microsoft Office"
+  description = "80%"
+
+[[feature]]
+  icon = "user-plus"
+  icon_pack = "fas"
+  name = "Positive"
+  description = "99%"  
+
+[[feature]]
+    icon = "lightbulb-on"
+    icon_pack = "fas"
+    name = "Inspirational"
+    description = "99%"  
 
 +++
