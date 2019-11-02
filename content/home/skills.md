@@ -65,6 +65,6 @@ subtitle = ""
 [[feature]]
     icon = "chalkboard-teacher"
     icon_pack = "fas"
-    name = "Leading"
+    name = "Leadership"
     description = "95%"  
 +++
