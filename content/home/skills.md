@@ -41,7 +41,7 @@ subtitle = ""
   [[feature]]
     icon = "wordpress-simple"
     icon_pack = "fab"
-    name = "Blooging"
+    name = "Blogging"
     description = "95%"
 
 [[feature]]
