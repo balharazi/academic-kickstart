@@ -64,7 +64,7 @@ subtitle = ""
 
 [[feature]]
     icon = "lightbulb-on"
-    icon_pack = "fas"
+    icon_pack = "far"
     name = "Inspirational"
     description = "99%"  
 
